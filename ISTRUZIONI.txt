@@ -1,0 +1,11 @@
+ADRIANO FIT TRACKER
+
+PWA indipendente da Stu Gym Tracker. Usa una chiave locale separata (adrianoFitTracker_v1), quindi i dati di Stu non vengono modificati.
+
+PUBBLICAZIONE: caricare tutti i file in una cartella/repository HTTPS dedicata. Non caricare nella repository di Stu se si desiderano applicazioni e dati completamente indipendenti.
+
+IPHONE: aprire l’indirizzo HTTPS in Safari > Condividi > Aggiungi alla schermata Home.
+
+DATI: salvati localmente sul dispositivo/browser. Esportare periodicamente il backup JSON da Strumenti. L’allarme sonoro e la vibrazione funzionano con l’app aperta in primo piano; iOS può sospendere il timer in background.
+
+Il menu e il target calorico sono indicativi, non una prescrizione clinica. Verificare le porzioni e adattare il piano sulla base dell’andamento del peso, del girovita e delle prestazioni.
